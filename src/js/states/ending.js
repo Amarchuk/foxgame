@@ -15,7 +15,7 @@ MouseGame.Ending.prototype = {
     create: function () {
         "use strict";
 
-        var title = this.game.add.sprite(0, 0, 'ending');
+        var title = this.game.add.sprite(0, 0, 'ending.jpg');
         title.inputEnabled = true;
         title.events.onInputDown.add(this.showMenu, this);
 
