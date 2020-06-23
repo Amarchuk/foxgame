@@ -59,7 +59,7 @@ MouseGame.Preloader.prototype = {
         game.load.image('intro-7','assets/backgrounds/intro-7.jpg');
         game.load.image('intro-8','assets/backgrounds/intro-8.jpg');
         game.load.image('intro-9','assets/backgrounds/intro-9.jpg');
-        game.load.image('ending','assets/backgrounds/ending.jpg');
+        game.load.image('ending2','assets/backgrounds/ending.jpg');
         game.load.image('key',          'assets/entities/key.png');
         game.load.image('logo','assets/buttons/menu_title.png');
         game.load.image('mainmenu-background','assets/backgrounds/background.jpg');
